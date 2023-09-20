@@ -1,0 +1,148 @@
+.bg-background {
+    background: #F5F2EB;
+}
+
+.deco-none {
+    text-decoration: none;
+    outline: none;
+}
+
+body {
+    background: #e7e5e1 !important;
+}
+
+h1 {
+    text-align: center;
+}
+
+.width50 {
+    width: 35%;
+}
+
+.width100 {
+    width: 100%;
+}
+
+.deco-none:focus,
+.deco-none:active,
+.deco-none:hover {
+    text-decoration: none;
+    outline: none;
+}
+
+.rounded-lg {
+    border-radius: 25px !important;
+}
+
+.pt-110 {
+    padding-top: 110px;
+}
+
+.z-index-1 {
+    z-index: 1;
+}
+
+.gap {
+    gap: 4px;
+}
+
+.button-design {
+    background: #fec787;
+}
+
+.button-design1 {
+    background: none;
+    border: solid 1px rgb(115, 111, 111);
+    width: 100%;
+}
+
+.gap-2 {
+    gap: 4px;
+}
+
+.font-size {
+    font-size: 14px;
+}
+
+.width90 {
+    width: 90% !important;
+}
+
+.width10 {
+    width: 10% !important;
+}
+
+.resize-text-area {
+    resize: none;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.height250 {
+    height: 250px;
+}
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+.profile-container {
+    bottom: -40%;
+    left: 5%;
+}
+
+.height600 {
+    height: 600px;
+}
+
+.cover-round {
+    border-top-left-radius: 25px !important;
+    border-top-right-radius: 25px !important;
+}
+
+.gap8 {
+    gap: 8px;
+}
+
+.gap-2-px {
+    gap: 2px;
+}
+
+.gap6 {
+    gap: 6px;
+}
+
+.url-spacing {
+    vertical-align: top;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+
+}
+
+.background-border-none {
+    background: none;
+    border: none;
+
+}
+
+.comment-button {
+    top: 50%;
+    left: 90%;
+    transform: translate(20%, -50%);
+}
+
+.solid-border {
+    border-style: solid;
+}
